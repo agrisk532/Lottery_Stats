@@ -1,2 +1,1 @@
-Analysis of popular lottery results, utilities.\
-***USE AT YOUR OWN RISK!***
+Analysis of popular lottery results, utilities (arithmetic complexities, sums, line generators, filters.) ***USE AT YOUR OWN RISK!***
